@@ -1,7 +1,7 @@
 # RNAppGEO
 
-##Setup environment:
-###Node & Watchman
+## Setup environment:
+### Node & Watchman
 We recommend installing Node and Watchman using Homebrew. Run the following commands in a Terminal after installing Homebrew:
 
     brew install node
@@ -11,7 +11,7 @@ If you have already installed Node on your system, make sure it is Node 8.3 or n
 
 Watchman is a tool by Facebook for watching changes in the filesystem. It is highly recommended you install it for better performance.
 
-###Xcode & CocoaPods
+### Xcode & CocoaPods
 The easiest way to install Xcode is via the Mac App Store. Installing Xcode will also install the iOS Simulator and all the necessary tools to build your iOS app.
 
 If you have already installed Xcode on your system, make sure it is version 9.4 or newer.
@@ -34,7 +34,7 @@ Using the default Ruby install will require you to use sudo when installing gems
 For more information, please visit CocoaPods Getting Started guide.
 
 
-##Running your React Native application
+## Running your React Native application
 Run npx react-native run-ios inside your React Native project folder:
 
 cd RNApp/ios
