@@ -55,3 +55,6 @@ https://facebook.github.io/react-native/docs/getting-started
 GEO library:
 https://facebook.github.io/react-native/docs/geolocation#__docusaurus
 https://github.com/Agontuk/react-native-geolocation-service
+
+### Running on real device
+https://facebook.github.io/react-native/docs/running-on-device
