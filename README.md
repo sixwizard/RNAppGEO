@@ -47,6 +47,4 @@ cd RNApp
 
 You should see your new app running in the iOS Simulator shortly.
 
-AwesomeProject on iOS
-
 npx react-native run-ios is one way to run your app. You can also run it directly from within Xcode.
