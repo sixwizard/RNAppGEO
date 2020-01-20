@@ -48,3 +48,10 @@ cd RNApp
 You should see your new app running in the iOS Simulator shortly.
 
 npx react-native run-ios is one way to run your app. You can also run it directly from within Xcode.
+
+Refer to
+https://facebook.github.io/react-native/docs/getting-started
+
+GEO library:
+https://facebook.github.io/react-native/docs/geolocation#__docusaurus
+https://github.com/Agontuk/react-native-geolocation-service
